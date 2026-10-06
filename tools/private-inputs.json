@@ -1,0 +1,20 @@
+[
+  "runtime/character-layouts.json",
+  "runtime/compatibility-report.json",
+  "runtime/extra-mode-data.json",
+  "runtime/message-window-data.js",
+  "runtime/native-masks.json",
+  "runtime/native-plane-dimensions-data.js",
+  "runtime/source-blink-nodes.json",
+  "runtime/source-generic-lip-configurations.json",
+  "runtime/source-image-anm-data.js",
+  "runtime/source-lip-nodes.json",
+  "runtime/source-lpb-catalog.json",
+  "runtime/source-original-audio-names.json",
+  "runtime/vendor/ATTRIBUTION.md",
+  "runtime/vendor/FreeMote-SDK-LGPL-3.0.txt",
+  "runtime/vendor/FreeMote-SDK-README.md",
+  "runtime/vendor/FreeMote.LICENSE.txt",
+  "runtime/vendor/FreeMoteDriver.js",
+  "runtime/vendor/emoteplayer.js"
+]
